@@ -1,12 +1,3 @@
-{
-
-                            Online Pascal Compiler.
-                Code, Compile, Run and Debug Pascal program online.
-Write your code in this editor and press "Run" button to execute it.
-
-}
-
-{
 c) Si se desea cambiar la línea 11 por la sentencia: for i:=1 to 9 do ¿Cómo debe modificarse el
 código para que la variable números contenga los mismos valores que en 1.b)?
 }
